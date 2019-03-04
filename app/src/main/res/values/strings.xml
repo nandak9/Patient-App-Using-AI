@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Patient App</string>
+    <string name="app_id">251796652192900</string>
+    <string name="app_secret">89114b0497bbf8d21856f7c9866ace5f</string>
+    <string name="twilio_account_id">AC1928517b09d349909ecddb1232020563</string>
+    <string name="auth_token">3e1e4e4bad412060910a09ccac54d93bbui</string>
+    <string name="bringing_it_up_in_a_moment">Bringing it up in a moment</string>
+    <string name="truecallerKey">QNHGYe5b61b69d56042338b03d221358136cd</string>
+
+    <string name="default_notification_channel_id" translatable="false">23</string>
+    <string name="default_notification_channel_name" translatable="false">PatientApp</string>
+    <string name="FACEBOOK_APP_ID" translatable="false">251796652192900</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN" translatable="false">df2f237cbee15658ab1b9bc8d0e58f56</string>
+
+    <string name="codec_title">Set your preferred audio and video codec. Not all codecs are supported with Group rooms. The media server will fallback to OPUS or VP8 if a preferred codec is not supported.</string>
+    <string name="pref_title_audio_codec">Audio Codec</string>
+    <string name="pref_title_video_codec">Video Codec</string>
+    <string name="sender_bandwidth_constraints">Set sender bandwidth constraints. Zero represents the WebRTC default value which varies by codec.</string>
+    <string name="max_audio_bitrate">Max Audio Bitrate (bits per second)</string>
+    <string name="max_video_bitrate">Max Video Bitrate (bits per second)</string>
+    <string name="turn_speaker_on">Speaker ON</string>
+    <string name="vp8_simulcast">VP8 Simulcast</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="room_status">status</string>
+    <string name="error_retrieving_access_token">Error retrieving token</string>
+    <string name="log_out">Log Out</string>
+    <string name="permissions_needed">Camera and Microphone permissions needed. Please allow in App Settings for additional functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <!--df2f237cbee15658ab1b9bc8d0e58f56-->
+
+
+    <!--TEST ACCOUNT SID
+ACd1ec07335bd5d4a3419c552c97c92716-->
+
+    <!--TEST AUTHTOKEN ab830afe9bb8691c82a68384912262da-->
+
+
+    <!--AC1928517b09d349909ecddb1232020563-->
+</resources>
